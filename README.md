@@ -1,0 +1,1 @@
+This small project will allow me to reinforce the basics of html and git. We are creating a barebones recipe website with links to other pages.
